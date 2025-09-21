@@ -1,0 +1,27 @@
+{  
+  "name": "movie-music-video-app",  
+  "version": "1.0.0",  
+  "main": "app/App.tsx",  
+  "scripts": {  
+    "start": "expo start",  
+    "android": "expo start --android",  
+    "ios": "expo start --ios"  
+  },  
+  "dependencies": {  
+    "react": "latest",  
+    "react-native": "latest",  
+    "react-native-paper": "latest",  
+    "react-native-video": "latest",  
+    "react-native-track-player": "latest",  
+    "ffmpeg-kit-react-native": "latest",  
+    "@react-navigation/native": "latest",  
+    "@react-navigation/bottom-tabs": "latest",  
+    "expo-av": "latest",  
+    "react-native-fs": "latest",  
+    "axios": "latest",  
+    "@react-native-async-storage/async-storage": "latest"  
+  },  
+  "devDependencies": {  
+    "typescript": "^5.0.0"  
+  }  
+}
